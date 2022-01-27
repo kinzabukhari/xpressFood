@@ -1,0 +1,7 @@
+export const BURGER = require('./filterIcons/burger.png')
+export const CHINESE = require('./filterIcons/chinese.png')
+export const FAST_FOOD = require('./filterIcons/fastfood.png')
+export const HOTDOG = require('./filterIcons/hotdog.png')
+export const SEA_FOOD = require('./filterIcons/seafood.png')
+export const SALAD = require('./filterIcons/salads.png')
+export const MEXICAN = require('./filterIcons/mexican.png')
